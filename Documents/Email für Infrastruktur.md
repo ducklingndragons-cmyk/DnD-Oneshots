@@ -17,5 +17,3 @@ Wir können uns in der aktuellen Bauphase keine unautorisierten Ausflüge in den
 Erstatten Sie Bericht, sobald der Schlüssel in unserer Verwahrung ist.
 
 *gez. Baudirektion*
-
-*Reso Dyne / Department for Public Integrity*
