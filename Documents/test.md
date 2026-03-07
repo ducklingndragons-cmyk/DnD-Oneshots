@@ -7,3 +7,6 @@ Und diese *Tests* sind jetzt sehr wichtig, da:
 |---|---|
 |Einfach|Ist sehr einfach|
 |Schwer|Trotzdem sind sie schwer|
+
+Hier ist noch ein tolles Bild
+![AiDoll Logo](https://raw.githubusercontent.com/ducklingndragons-cmyk/DnD-Oneshots/refs/heads/main/Images/AIDoll.png)
