@@ -1,2 +1,2 @@
-![](https://github.com/ducklingndragons-cmyk/DnD-Oneshots/blob/main/Images/Protocol1.png?raw=true)
-![](https://github.com/ducklingndragons-cmyk/DnD-Oneshots/blob/main/Images/Protocol2.png?raw=true)
+![](https://raw.githubusercontent.com/ducklingndragons-cmyk/DnD-Oneshots/refs/heads/main/Images/Protocol1.png)
+![](https://raw.githubusercontent.com/ducklingndragons-cmyk/DnD-Oneshots/refs/heads/main/Images/Protocol2.png)
